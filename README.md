@@ -1,2 +1,2 @@
 # Pedit
-An optimized Python development environment.
+A little dinky text editor I made in python
